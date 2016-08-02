@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-3.7.jar"/>
+	<classpathentry kind="lib" path="lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="lib/disco-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-corenlp-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="lib/guava.jar"/>
+	<classpathentry kind="lib" path="lib/BPMNImporter.jar"/>
+	<classpathentry kind="lib" path="lib/jbpt.jar"/>
+	<classpathentry kind="lib" path="lib/org.json.jar"/>
+	<classpathentry kind="lib" path="lib/bpmai.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PPIAlignment"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

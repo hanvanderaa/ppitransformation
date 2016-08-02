@@ -1,0 +1,6 @@
+Number of accepted orders.
+Average time between receipt and completion of an order.
+Average time to complete a received order.
+The percentage of rejected orders.
+The maximum time to transport an order.
+The total amount of orders received per customer.
